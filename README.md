@@ -1,7 +1,7 @@
 ### LIVE VERSION https://fantomey.github.io/LayoutForCodeSaver/     ʕ•͡-•ʔ
 
-### TEST Nickname : Admin 
-### TEST Password : 123
+### TEST Nickname : Admin     ### TEST Password : 123
+
 
 
 ### CODE SAVER •ᴗ•
