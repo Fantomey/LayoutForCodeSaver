@@ -2,7 +2,7 @@
 
 ### TEST Nickname : Admin  |||  Password : 123  //  ૮₍˶ •. • ⑅₎ა ♡
 
-### HI ITS  CODE SAVER •ᴗ•
+### Hi its  CODE SAVER •ᴗ•
 ### Simple site for save different codes ◝(ᵔᵕᵔ)◜ 
 ### Created for Experience ¯\_(ツ)_/¯
 ### Version without node.js server which fetch all info  (๑>◡<๑)
