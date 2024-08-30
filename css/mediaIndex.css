@@ -1,0 +1,50 @@
+@media(max-width:760px) {
+    .content-title {
+        font-size: 36px;
+    }
+
+}
+
+@media(max-width:600px) {
+    .content-title {
+        font-size: 30px;
+    }
+
+}
+
+@media(max-width:500px) {
+    .content-title {
+        font-size: 26px;
+    }
+
+}
+
+@media(max-width:440px) {
+    .content-title {
+        font-size: 20px;
+    }
+
+    .extra {
+        font-size: 26px;
+    }
+
+    form {
+        font-size: 18px;
+        padding: 5px 15px;
+        width: 80%;
+    }
+
+    .btns {
+        margin-top: 36px;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media(max-width:410px) {
+    .extra {
+        font-size: 24px;
+    }
+}
+
+@media(max-width:390px) {}
